@@ -1,0 +1,7 @@
+[
+{"imie":Aleksandra,"nazwisko":Matysik,"wiek":20,"status":ok},
+{"imie":Teresa,"nazwisko":Buka,"wiek":10,"status":ok},
+{"imie":magda,"nazwisko":Kalis,"wiek":25,"status":error},
+{"imie":laura,"nazwisko":luto,"wiek":2,"status":error},
+{"imie":Ewa,"nazwisko":kas,"wiek":5,"status":ok},
+]
